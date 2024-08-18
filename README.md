@@ -1,9 +1,6 @@
 # DiabetesPredictionMLModel-PythonStreamlit
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Project Details</title>
-</head>
 <body>
     <h1>Project Details</h1>
     <p><strong>Author:</strong> Avishek Ghosh</p>
